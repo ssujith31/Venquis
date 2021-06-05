@@ -1,0 +1,24 @@
+<svg width="92" height="207" viewBox="0 0 92 207" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="11" y="4" width="72" height="197">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81.8039 14.1442L82.6757 13.7388L78.8624 4.84837L70.3839 9.50639L70.8268 10.3645L77.7425 6.56494L11.0518 200.249L11.9973 200.574L78.6882 6.88997L81.8039 14.1442Z" fill="#5A15FF"/>
+</mask>
+<g mask="url(#mask0)">
+<rect width="210" height="24" transform="translate(0 198.559) rotate(-71)" fill="url(#paint0_linear)"/>
+<rect width="210" height="24" transform="translate(0 198.559) rotate(-71)" fill="url(#paint1_diamond)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="2.36778" y2="24.2011" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F7F3FF"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<radialGradient id="paint1_diamond" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210) rotate(172.877) scale(137.047 64.9702)">
+<stop offset="0.502082" stop-color="#E6FDFF"/>
+<stop offset="1" stop-color="#E9FBFE" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0">
+<rect width="210" height="24" fill="white" transform="translate(0 198.559) rotate(-71)"/>
+</clipPath>
+</defs>
+</svg>

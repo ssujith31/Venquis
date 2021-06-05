@@ -1,0 +1,42 @@
+
+
+@font-face {
+    font-family:Atyp-Display-Medium;
+    src: url(../fonts/Atyp-Display-Medium.ttf);
+}
+
+@font-face {
+  font-family:Atyp-Text-Medium;
+  src: url(../fonts/Atyp-Text-Medium.ttf);
+}
+
+@font-face {
+  font-family:Atyp-Text-Regular;
+  src: url(../fonts/Atyp-Text-Regular.ttf);
+}
+
+@font-face {
+	font-family:'Spezia';
+	src: url('../fonts/SpeziaWeb-Regular.eot'); /* IE9 Compat Modes */
+	src: url('../fonts/SpeziaWeb-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	     url('../fonts/SpeziaWeb-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/SpeziaWeb-Regular.woff') format('woff'); /* Pretty Modern Browsers */
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+000D-FB04;
+}
+
+@font-face {
+	font-family:'Spezia';
+	src: url('../fonts/SpeziaWeb-Medium.eot'); /* IE9 Compat Modes */
+	src: url('../fonts/SpeziaWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	     url('../fonts/SpeziaWeb-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/SpeziaWeb-Medium.woff') format('woff'); /* Pretty Modern Browsers */
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+000D-FB04;
+}
+
+@font-face{font-family:'Glyphicons Halflings';src:url('https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.eot');src:url('https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),url('https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.woff') format('woff'),url('https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.ttf') format('truetype'),url('https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');}.glyphicon{position:relative;top:1px;display:inline-block;font-family:'Glyphicons Halflings';font-style:normal;font-weight:normal;line-height:1;-webkit-font-smoothing:antialiased;}
